@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+  body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to top , #07173d ,#bb8e9c);
+}
+
+
+.header {
+
+border-radius: 20%;
+
+}
+#button{
+    width: 26%;
+    height: 65px;
+    border-radius: 14px 318PX;
+    background-color: rgb(189, 189, 189);
+    margin-top: 20px;
+    text-decoration: none;
+    margin-left: 61px;
+    transition: 5s;
+    box-shadow: 6px 13px 12px black;
+   
+        border-style: dotted;
+        border-width: thick;
+      
+
+    }
+    #button:hover{
+
+background-color: pink ;
+    }
+
+    P{
+        font-size: 30px;
+        color: black;
+        display: inline;
+        text-decoration: none;
+font-style: italic;
+font-family: cursive;
+
+    }
+     button a{
+        text-decoration: none;
+
+
+    }
